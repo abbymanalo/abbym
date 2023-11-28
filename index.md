@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Student Blog
+title: Abby's Blog
 ---
-
-
-## Build you Home Page here 
-This is about your journey. Start now!!!
-
+Abby's Home Page
+hello
+![abt me](/home/abbymanalo/vscode/abbym/images/About Me Image for Github (1).jpg)
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
