@@ -3,7 +3,7 @@ layout: default
 title: Abby's Blog
 ---
 ## Abby's Home Page !
-! [abt me] ({{site.baseurl}}/images/About Me Image for Github (1).jpg)
+![abtme]({{site.baseurl}}/home/abbymanalo/vscode/abbym/images/AboutMeImageforGithub(1).jpg)
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
