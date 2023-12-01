@@ -2,8 +2,8 @@
 layout: default
 title: Abby's Blog
 ---
-## Abby's Home Page !
-# About Me:
+# Home Page
+## About Me:
 -I'm the youngest daughter of a family of four
 
 -I do dance and I train 16 hours a week. These past few months I've been preparing for my dance studios Nutcracker production and over the summer, I spent three weeks in Nashville training in Nashville Ballet's summer program. 
@@ -13,5 +13,7 @@ title: Abby's Blog
 -I play the piano and used to play the viola
 
 ![abtme]({{site.baseurl}}/images/AboutMeImageforGithub(1).jpg)
+
+
 
 
