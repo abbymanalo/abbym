@@ -2,7 +2,7 @@
 layout: default
 title: Abby's Blog
 ---
-# Home Page
+# Abby's Home Page
 <span style="color:#711F98;font-weight:700; font-size:20px">
 ## About Me:
 
