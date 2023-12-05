@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Time Box, December 4-8
-description: Baking cupcakes! 🥣✩ ₊˚
+description: Baking cupcakes! ✩ ₊˚
 type: plans
 courses: { compsci: {week: 0} }
 ---
