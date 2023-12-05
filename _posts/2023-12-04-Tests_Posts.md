@@ -17,7 +17,6 @@ Clink these links to find some recipes and techniques:
 
 - [Cream cheese frosting recipe](https://sugarspunrun.com/cream-cheese-frosting/)
 
-- [Best cupcake frosting techniques](https://www.lifeasastrawberry.com/)
-cupcakes-102-how-to-frost-the-perfect-cupcake/
+- [Best cupcake frosting techniques](https://www.lifeasastrawberry.com/cupcakes-102-how-to-frost-the-perfect-cupcake/)
 
 With these tutorials, you can make very enjoyable and aesthetic cupcakes!!
