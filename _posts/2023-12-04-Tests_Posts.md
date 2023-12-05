@@ -9,11 +9,11 @@ courses: { compsci: {week: 0} }
 ---
 
 # Red Velvet Cupcakes 🧁
-I love baking cupcakes, and my favorite flavor is Red Velvet with Cream Cheese frosting!
+## I love baking cupcakes, and my favorite flavor is Red Velvet with Cream Cheese frosting!
 
-Clink these links to find some recipes and techniques: 
+## Clink these links to find some recipes and techniques: 
 
-- [red velvet cake recipe](https://preppykitchen.com/red-velvet-cupcakes/)
+- [Red velvet cake recipe](https://preppykitchen.com/red-velvet-cupcakes/)
 
 - [Cream cheese frosting recipe](https://sugarspunrun.com/cream-cheese-frosting/)
 
