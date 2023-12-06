@@ -9,7 +9,7 @@ courses: { compsci: {week: 3} }
 ---
 
 # All things Christmas *ੈ🎄✩‧₊
-<span style="font-size: 20px;">
+<span style="font-size: 28px;">
 <font face="Impact">In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! </font>
 
 <span style="font-size: 18px;">
