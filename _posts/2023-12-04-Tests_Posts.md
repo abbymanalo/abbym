@@ -16,7 +16,7 @@ In light of the holiday season approaching, here are some of my favorite things 
 - Listening to Chrtistmas music
 
     My personal favorite Christmas songs would be Last Christmas by Wham!, Underneath the Tree by Kelly Clarkson, and Santa Tell Me by Ariana Grande. Here's a video/link of Last Christmas: 
-    [![Last Christmas](https://i.ytimg.com/vi/E8gmARGvPlI/hqdefault.jpg)](https://www.youtube.com/watch?v=KhqNTjbQ71A&pp=ygUUbGFzdCBjaHJpc3RtYXMgd2hhbSA%3D)
+    [![Last Christmas](https://i.ytimg.com/vi/E8gmARGvPlI/hqdefault.jpg)](https://youtu.be/E8gmARGvPlI?si=mNAhYVvNG8q3StQi)
 
 
 <span style="font-size: 18px;">
