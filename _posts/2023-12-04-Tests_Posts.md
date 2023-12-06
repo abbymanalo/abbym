@@ -7,10 +7,10 @@ description: Christmas is approaching! ✩ ₊˚
 type: hacks
 courses: { compsci: {week: 3} }
 ---
-<font face="Impact">
+
 # All things Christmas *ੈ🎄✩‧₊
 <span style="font-size: 20px;">
-In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! 
+<font face="Impact">In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! </font>
 
 <span style="font-size: 18px;">
 - Listening to Chrtistmas music
@@ -25,4 +25,3 @@ In light of the holiday season approaching, here are some of my favorite things 
 
     **A Charlie Brown Christmas** is a classic Christmas movie to watch! 
 ![charlie brown](https://media4.giphy.com/media/PcKgXgisPwieA/giphy.gif)
-</font>
