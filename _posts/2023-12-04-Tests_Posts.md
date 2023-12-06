@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Time Box, December 4-8
+title: Personal Post- The Holiday Season
 description: Christmas is approaching! ✩ ₊˚
 type: hacks
 courses: { compsci: {week: 3} }
