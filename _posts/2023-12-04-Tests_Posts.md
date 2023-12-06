@@ -7,7 +7,7 @@ description: Christmas is approaching! ✩ ₊˚
 type: hacks
 courses: { compsci: {week: 3} }
 ---
-
+<span style="font-family: 'impact', sans-serif;">
 # All things Christmas *ੈ🎄✩‧₊
 <span style="font-size: 20px;">
 In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! 
@@ -25,3 +25,4 @@ In light of the holiday season approaching, here are some of my favorite things 
 
     **A Charlie Brown Christmas** is a classic Christmas movie to watch! 
 ![charlie brown](https://media4.giphy.com/media/PcKgXgisPwieA/giphy.gif)
+</span>
