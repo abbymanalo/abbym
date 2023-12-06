@@ -5,7 +5,7 @@ layout: post
 title: Time Box, December 4-8
 description: Christmas is approaching! ✩ ₊˚
 type: plans
-courses: { compsci: {week: 0} }
+courses: { compsci: {week: 3} }
 ---
 
 # All things Christmas *ੈ🎄✩‧₊
