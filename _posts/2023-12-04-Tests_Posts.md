@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Time Box, December 4-8
 description: Christmas is approaching! ✩ ₊˚
-type: plans
+type: hacks
 courses: { compsci: {week: 3} }
 ---
 
