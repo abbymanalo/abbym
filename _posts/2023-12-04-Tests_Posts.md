@@ -24,4 +24,4 @@ In light of the holiday season approaching, here are some of my favorite things 
 - Watching Christmas movies
 
     **A Charlie Brown Christmas** is a classic Christmas movie to watch! 
-<img src="https://media4.giphy.com/media/PcKgXgisPwieA/giphy.gif" alt="Charlie Brown" style="width: 200px;">
+![charlie brown](https://media4.giphy.com/media/PcKgXgisPwieA/giphy.gif)
