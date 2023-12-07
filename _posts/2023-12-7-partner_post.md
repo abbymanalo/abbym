@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Places to Visit
-description: Time For an Adventure🗺
+description: <span style="font-family: BEBAS NEUE; font-size: 17px;">Time For an Adventure🗺</span>
 type: hacks
 courses: { compsci: {week: 3} }
 ---
