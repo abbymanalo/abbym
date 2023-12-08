@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Personal Post- The Holiday Season
+title: The Holiday Season-Personal Post
 description: Christmas is approaching! ✩ ₊˚
 type: hacks
 courses: { compsci: {week: 3} }
@@ -10,7 +10,7 @@ courses: { compsci: {week: 3} }
 
 # All things Christmas *ੈ🎄✩‧₊
 <span style="font-size: 28px;">
-<font face="Impact">In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! </font>
+<span style ="font-family: Playfair display">In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! </span>
 
 <span style="font-size: 18px;">
 - Listening to Chrtistmas music

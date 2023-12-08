@@ -2,7 +2,7 @@
 toc: true
 comments: false
 layout: post
-title: Places to Visit
+title: Places to Visit-Partner Post
 description: Time For an Adventure🗺
 type: tangibles
 courses: { compsci: {week: 3} }
