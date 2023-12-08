@@ -12,6 +12,9 @@ courses: { compsci: {week: 3} }
 <span style="font-size: 22px;">
 <span style ="font-family: Playfair display">In light of the holiday season approaching, here are some of my favorite things I like to do during the Christmas season that I reccomend! </span>
 
+<span style="font-size: 22px;">
+click on the bolded text to open the links!
+
 <span style="font-size: 20px;">
 - Listening to Chrtistmas music
 
