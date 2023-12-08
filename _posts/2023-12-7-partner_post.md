@@ -14,3 +14,30 @@ courses: { compsci: {week: 3} }
 
 # #1 Greece
 ![greece](https://a.cdn-hotels.com/gdcs/production18/d1838/041ae6b1-0a88-4c22-a648-53a22dd4a006.jpg?impolicy=fcrop&w=800&h=533&q=medium)
+
+# #2 Italy
+![italy](https://assets.visitorscoverage.com/production/images/destination-italy.jpg)
+
+# #3 Switzerland
+![switzerland](https://www.theinvisibletourist.com/wp-content/uploads/2019/09/featured_122.jpg)
+
+# #4 Japan
+![japan](https://media.cnn.com/api/v1/images/stellar/prod/230210161917-01-japan-never-traveler-culture-tokyo.jpg?c=original)
+
+# #5 England
+![england](https://www.telegraph.co.uk/multimedia/archive/02423/london_2423609b.jpg?imwidth=680)
+
+# #6 Spain
+![spain](https://a.loveholidays.com/media-library/production/87eed4e1633f6fbb4ed7e92c37aa2d649f21ae3c-3864x1300.png?width=1200&height=630&fit=crop)
+
+# #7 Bali
+![bali](https://imageio.forbes.com/specials-images/imageserve/675172642/pura-ulun-danu-bratan-temple-in-Bali-/960x0.jpg?format=jpg&width=960)
+
+# #8 Northern Lights
+![northern lights](https://i.natgeofe.com/n/22d43fba-6c4d-400d-b6fa-6a2300589c59/GettyImages-1446646686_4x3.jpg)
+
+# #9 France
+![france](https://www.state.gov/wp-content/uploads/2023/07/shutterstock_667548661v2.jpg)
+
+# #10 Portugal
+![portugal](https://media.cnn.com/api/v1/images/stellar/prod/221104141523-04-portugal-moving-lisbon.jpg?c=original)
