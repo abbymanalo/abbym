@@ -41,3 +41,10 @@ courses: { compsci: {week: 3} }
 
 # [#10 Portugal](https://www.lonelyplanet.com/portugal)
 ![portugal](https://media.cnn.com/api/v1/images/stellar/prod/221104141523-04-portugal-moving-lisbon.jpg?c=original)
+
+
+<style>
+    .post-header > ul {
+        display: none;
+    }
+    </style>
