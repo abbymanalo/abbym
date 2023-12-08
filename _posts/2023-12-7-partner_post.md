@@ -4,7 +4,7 @@ comments: false
 layout: post
 title: Places to Visit
 description: Time For an Adventure🗺
-type: hacks
+type: tangibles
 courses: { compsci: {week: 3} }
 ---
 
