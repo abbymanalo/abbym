@@ -7,6 +7,8 @@ description: Reflection and notes of Week 4 work
 type: tangibles
 courses: { compsci: {week: 4} }
 ---
+<span style="font-family: BEBAS NEUE;">
+
 # **Overview of Week 4 Progress**
 
 # Changes made to snake:
@@ -17,3 +19,4 @@ courses: { compsci: {week: 4} }
 - change color of snake/apple
 - change size of snake/apple block
 - you can also now press on the enter key to start new game
+</span>
