@@ -12,6 +12,7 @@ courses: { compsci: {week: 3} }
 # Changes made to snake:
 - changed font size of snake score
 - highlighted key words in welcome message
+- bolded and changed font of game over message
 - change background color of snake game 
 - change color of snake/apple
 - change size of snake/apple block
