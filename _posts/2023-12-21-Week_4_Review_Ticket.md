@@ -8,9 +8,9 @@ type: tangibles
 courses: { compsci: {week: 4} }
 ---
 
-# <span style="font-family: BEBAS NEUE;"> **Overview of Week 4 Progress**
+# <span style="font-family: BEBAS NEUE;"> **Overview of Week 4 Progress** </span>
 
-# Changes made to snake:
+# <span style="font-family: BEBAS NEUE;">Changes made to snake: </span>
 - changed font size of snake score
 - highlighted key words in welcome message
 - bolded and changed font of game over message
@@ -19,4 +19,3 @@ courses: { compsci: {week: 4} }
 - change size of snake/apple block
 - you can also now press on the enter key to start new game
 
-</span>
