@@ -2,10 +2,10 @@
 toc: true
 comments: false
 layout: post
-title: Week 3 Review Ticket
-description: Reflection and notes of Week 3 work
+title: Week 4 Review Ticket
+description: Reflection and notes of Week 4 work
 type: tangibles
-courses: { compsci: {week: 3} }
+courses: { compsci: {week: 4} }
 ---
 # **Overview of Week 4 Progress**
 
