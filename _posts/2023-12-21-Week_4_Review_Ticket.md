@@ -10,7 +10,7 @@ courses: { compsci: {week: 4} }
 
 # <span style="font-family: BEBAS NEUE;"> **Overview of Week 4 Progress** </span>
 
-# <span style="font-family: BEBAS NEUE;">Changes made to snake: </span>
+<span style="font-family: BEBAS NEUE;">Changes made to snake: </span>
 - changed font size of snake score
 - highlighted key words in welcome message
 - bolded and changed font of game over message
