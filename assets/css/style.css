@@ -136,7 +136,7 @@ footer p + p { float: right; }
   header p { width: 100%; } }
 @media print { header p.view a small:before { content: 'at https://github.com/'; } }
 /* define class for redifined button */
-.button, .calculator-number, .calculator-operation, .calculator-clear, .calculator-equals { width: auto; height: auto; border-radius: 10px; background-color: #f5dbeb; border: 3px solid black; font-size: 1.5em; display: flex; justify-content: center; align-items: center; grid-column: span 1; grid-row: span 1; transition: all 0.5s; }
+.button, .calculator-number, .calculator-operation, .calculator-clear, .calculator-equals { width: auto; height: auto; border-radius: 10px; background-color: #f5dbeb; border: 3px solid #d4068c; font-size: 1.5em; display: flex; justify-content: center; align-items: center; grid-column: span 1; grid-row: span 1; transition: all 0.5s; }
 
 /* darkens the background color on hover to create a selecting effect */
 .button:hover, .calculator-number:hover, .calculator-operation:hover, .calculator-clear:hover, .calculator-equals:hover { background-color: #373737; }
