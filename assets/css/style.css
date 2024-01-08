@@ -74,7 +74,7 @@ header p { margin: 0; color: #84618c;; width: 300px; font-size: 13px; }
 header p.view { display: none; font-weight: 700; text-shadow: rgba(255, 255, 255, 0.9) 0 1px 0; -webkit-font-smoothing: antialiased; }
 header p.view a { color: #84618c; }
 header p.view small { font-weight: 400; }
-header ul { margin: 0; padding: 0; list-style: none; position: absolute; z-index: 1; right: 20px; top: 20px; height: 38px; padding: 1px 0; background: #ad51df; background: linear-gradient(#d177fb, rgb(127, 50, 157) 88, 137)); border-radius: 5px; box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0; width: auto; }
+header ul { margin: 0; padding: 0; list-style: none; position: absolute; z-index: 1; right: 20px; top: 20px; height: 38px; padding: 1px 0; background: #ad51df; background: linear-gradient(#d177fb, rgb(127, 50, 157) 88, 137); border-radius: 5px; box-shadow: inset rgba(255, 255, 255, 0.45) 0 1px 0, inset rgba(0, 0, 0, 0.2) 0 -1px 0; width: auto; }
 header ul:before { content: ''; position: absolute; z-index: -1; left: -5px; top: -4px; right: -5px; bottom: -6px; background: rgba(0, 0, 0, 0.1); border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0, inset rgba(255, 255, 255, 0.7) 0 -1px 0; }
 header ul li { width: 79px; float: left; border-right: 1px solid rgb(129, 70, 163) 117, 173; height: 38px; }
 header ul li.single { border: none; }
