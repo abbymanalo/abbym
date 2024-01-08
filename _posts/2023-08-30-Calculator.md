@@ -53,7 +53,6 @@ courses: { compsci: {week: 5} }
       <div class="calculator-operation">-</div>
       <div class="calculator-operation">+</div>
       <div class="calculator-operation">^2</div>
-      <div class="calculator-operation">√</div>
       <div class="calculator-clear">A/C</div>
       <div class="calculator-equals">=</div>
       <!--row 5-->
@@ -139,9 +138,6 @@ courses: { compsci: {week: 5} }
               break;
           case "^2": 
               result = first * first;
-              break; 
-          case "√":
-              result = first / first;
               break;
           default: 
               break;
