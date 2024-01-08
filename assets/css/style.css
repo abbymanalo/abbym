@@ -154,10 +154,10 @@ footer p + p { float: right; }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
-.calculator-clear { background-color: #e68b1c; }
+.calculator-clear { background-color: #eb8db9; }
 
 /* styling for the calculator equals button */
-.calculator-equals { background-color: #e70f0f; }
+.calculator-equals { background-color: #e71ba3; }
 
 
 
