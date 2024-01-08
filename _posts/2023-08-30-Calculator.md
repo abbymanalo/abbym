@@ -177,7 +177,23 @@ courses: { compsci: {week: 5} }
 <!-- 
 Vanta animations just for fun, load JS onto the page
 -->
-<script src="{{site.baseurl}}/assests/js/vanta.jog.min.js"></script>
+<script src="three.r134.min.js"></script>
+<script src="vanta.fog.min.js"></script>
+<script>
+VANTA.FOG({
+  el: "#your-element-selector",
+  mouseControls: true,
+  touchControls: true,
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  highlightColor: 0xf2badb,
+  midtoneColor: 0xf4e7f5,
+  lowlightColor: 0xc874e3,
+  baseColor: 0xe67ac9,
+  speed: 3.50
+})
+</script>
 
 
 <script>
