@@ -132,6 +132,9 @@ courses: { compsci: {week: 5} }
           case "/":
               result = first / second;
               break;
+          case "^2": 
+              result = first * first;
+              break; 
           default: 
               break;
       }
