@@ -5,7 +5,7 @@ layout: post
 title: Calculator MD
 description: Grab of the Calculator from APCSA repo.
 type: tangibles
-courses: { compsci: {week: 2} }
+courses: { compsci: {week: 5} }
 ---
 
 <style>
@@ -20,7 +20,7 @@ courses: { compsci: {week: 2} }
   
     padding: 0.25em;
     font-size: 20px;
-    border: 5px solid black;
+    border: 5px solid white;
   
     display: flex;
     align-items: center;
