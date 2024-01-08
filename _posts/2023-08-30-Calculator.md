@@ -177,7 +177,7 @@ courses: { compsci: {week: 5} }
 <!-- 
 Vanta animations just for fun, load JS onto the page
 -->
-<script src="{{sitebaseurl}}/assests/js/vanta.jog.min.js"></script>
+<script src="{{site.baseurl}}/assests/js/vanta.jog.min.js"></script>
 
 
 <script>
