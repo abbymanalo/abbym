@@ -194,13 +194,10 @@ Vanta animations just for fun, load JS onto the page
 // setup vanta scripts as functions
 var vantaInstances = {
   halo: VANTA.HALO,
-  birds: VANTA.BIRDS,
-  net: VANTA.NET,
-  rings: VANTA.RINGS
 };
 
 // obtain a random vanta function
-var vantaInstance = vantaInstances[Object.keys(vantaInstances)[Math.floor(Math.random() * Object.keys(vantaInstances).length)]];
+
 
 // run the animation
 vantaInstance({
