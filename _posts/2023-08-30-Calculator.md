@@ -186,30 +186,18 @@ courses: { compsci: {week: 5} }
 <!-- 
 Vanta animations just for fun, load JS onto the page
 -->
-<script src="{{site.baseurl}}/assets/js/three.r119.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/vanta.halo.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/vanta.birds.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/vanta.net.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/vanta.rings.min.js"></script>
-
-
+<script src="three.r134.min.js"></script>
+<script src="vanta.fog.min.js"></script>
 <script>
-// setup vanta scripts as functions
-var vantaInstances = {
-  halo: VANTA.HALO,
-  birds: VANTA.BIRDS,
-  net: VANTA.NET,
-  rings: VANTA.RINGS
-};
-
-// obtain a random vanta function
-var vantaInstance = vantaInstances[Object.keys(vantaInstances)[Math.floor(Math.random() * Object.keys(vantaInstances).length)]];
-
-// run the animation
-vantaInstance({
-  el: "#animation",
+VANTA.FOG({
+  el: "#your-element-selector",
   mouseControls: true,
   touchControls: true,
-  gyroControls: false
-});
+  gyroControls: false,
+  minHeight: 200.00,
+  minWidth: 200.00,
+  highlightColor: 0xe8a7bd,
+  midtoneColor: 0xcf9991,
+  lowlightColor: 0xd27cc7
+})
 </script>
