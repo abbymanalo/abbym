@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Calculator MD
-description: Calculator to calculate addition, subtraction, division, multiplication, make the number a fraction of 1/x, square a number, and cube a number
+description: Calculator to calculate addition, subtraction, division, multiplication, make the number a fraction of 1/x,square a number, and cube a number
 type: tangibles
 courses: { compsci: {week: 5} }
 ---
@@ -186,18 +186,27 @@ courses: { compsci: {week: 5} }
 <!-- 
 Vanta animations just for fun, load JS onto the page
 -->
-<script src="three.r134.min.js"></script>
-<script src="vanta.fog.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/three.r119.min.js"></script>
+<script src="{{site.baseurl}}/assets/js/vanta.halo.min.js"></script>
+
+
 <script>
-VANTA.FOG({
-  el: "#your-element-selector",
+// setup vanta scripts as functions
+var vantaInstances = {
+  halo: VANTA.HALO,
+  birds: VANTA.BIRDS,
+  net: VANTA.NET,
+  rings: VANTA.RINGS
+};
+
+// obtain a random vanta function
+var vantaInstance = vantaInstances[Object.keys(vantaInstances)[Math.floor(Math.random() * Object.keys(vantaInstances).length)]];
+
+// run the animation
+vantaInstance({
+  el: "#animation",
   mouseControls: true,
   touchControls: true,
-  gyroControls: false,
-  minHeight: 200.00,
-  minWidth: 200.00,
-  highlightColor: 0xe8a7bd,
-  midtoneColor: 0xcf9991,
-  lowlightColor: 0xd27cc7
-})
+  gyroControls: false
+});
 </script>
