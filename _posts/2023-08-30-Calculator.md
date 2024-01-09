@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Calculator MD
-description: Grab of the Calculator from APCSA repo.
+description: Calculator to calculate addition, subtraction, division, multiplication, square a number, and cube a number
 type: tangibles
 courses: { compsci: {week: 5} }
 ---
