@@ -16,7 +16,7 @@ courses: { compsci: {week: 5} }
       span defines 4 columns and 1 row
     */
     grid-column: span 5;
-    grid-row: span 1;
+    grid-row: span 2;
   
     padding: 0.25em;
     font-size: 20px;
