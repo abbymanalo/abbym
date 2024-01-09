@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Calculator MD
-description: Calculator to calculate addition, subtraction, division, multiplication, square a number, and cube a number
+description: Calculator to calculate addition, subtraction, division, multiplication, make the number a fraction of 1/x, square a number, and cube a number
 type: tangibles
 courses: { compsci: {week: 5} }
 ---
