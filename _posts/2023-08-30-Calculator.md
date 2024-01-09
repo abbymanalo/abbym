@@ -15,7 +15,7 @@ courses: { compsci: {week: 5} }
       result to take up the entirety of the first row;
       span defines 4 columns and 1 row
     */
-    grid-column: span 4;
+    grid-column: span 5;
     grid-row: span 1;
   
     padding: 0.25em;
