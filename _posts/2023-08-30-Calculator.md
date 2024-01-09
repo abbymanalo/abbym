@@ -20,7 +20,7 @@ courses: { compsci: {week: 5} }
   
     padding: 0.25em;
     font-size: 20px;
-    border: 5px solid pink;
+    border: 5px solid hotpink;
   
     display: flex;
     align-items: center;
