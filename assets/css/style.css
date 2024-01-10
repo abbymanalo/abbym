@@ -148,9 +148,9 @@ footer p + p { float: right; }
 .column { flex: 16.66%; padding: 3px; }
 
 /* class to create the calculator's container; uses CSS grid dsiplay to partition off buttons */
-.calculator-container { width: 45vw; /* this width and height is specified for mobile devices by default */ height: 10vh; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); /* fr is a special unit; learn more here: https://css-tricks.com/introduction-fr-css-unit/  */ grid-template-rows: 0.5fr repeat(4, 1fr); gap: 10px 10px; }
+.calculator-container { width: 45vw; /* this width and height is specified for mobile devices by default */ height: 60vh; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); /* fr is a special unit; learn more here: https://css-tricks.com/introduction-fr-css-unit/  */ grid-template-rows: 0.5fr repeat(4, 1fr); gap: 10px 10px; }
 
-@media (min-width: 600px) { .calculator-container { width: 45vw; height: 110vh; } }
+@media (min-width: 600px) { .calculator-container { width: 45vw; height: 60vh; } }
 /* styling for the calculator number button */
 /* styling for the calculator operation button */
 /* styling for the calculator clear button */
