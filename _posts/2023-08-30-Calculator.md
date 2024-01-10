@@ -54,6 +54,7 @@ courses: { compsci: {week: 5} }
       <div class="calculator-operation">-</div>
       <div class="calculator-operation">+</div>
       <div class="calculator-operation">1/x</div>
+      <div class="calculator-operation">%</div>
       <div class="calculator-operation">^2</div>
       <div class="calculator-operation">^3</div>
       <div class="calculator-equals">=</div>
@@ -147,6 +148,9 @@ courses: { compsci: {week: 5} }
               break;
           case "1/x":
               result = 1 / first;
+              break;
+          case "%":
+              result = first * 0.01;
               break;
           default: 
               break;
