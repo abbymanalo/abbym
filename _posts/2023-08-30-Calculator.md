@@ -189,7 +189,6 @@ Vanta animations just for fun, load JS onto the page
 <script src="{{site.baseurl}}/assets/js/three.r119.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/vanta.halo.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/vanta.birds.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/vanta.net.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/vanta.rings.min.js"></script>
 
 
@@ -198,7 +197,6 @@ Vanta animations just for fun, load JS onto the page
 var vantaInstances = {
   halo: VANTA.HALO,
   birds: VANTA.BIRDS,
-  net: VANTA.NET,
   rings: VANTA.RINGS
 };
 
