@@ -8,12 +8,10 @@ type: tangibles
 courses: { compsci: {week: 6} }
 ---
 
-%%html
-
 <body>
     <div>
         <canvas id="spriteContainer"> <!-- Within the base div is a canvas. An HTML canvas is used only for graphics. It allows the user to access some basic functions related to the image created on the canvas (including animation) -->
-            <img id="SpidermanSprite" src="spidermansprite.jpg">  // change sprite here
+            <img id="spidermanSprite" src="spidermansprite.jpg">  // change sprite here
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
             <input type="radio" name="animation" id="idle" checked>
@@ -39,9 +37,9 @@ courses: { compsci: {week: 6} }
         canvas.width = SPRITE_WIDTH * SCALE_FACTOR;
         canvas.height = SPRITE_HEIGHT * SCALE_FACTOR;
 
-        class Dog {
+        class Spiderman {
             constructor() {
-                this.image = document.getElementById("dogSprite");
+                this.image = document.getElementById("spidermanSprite");
                 this.x = 0;
                 this.y = 0;
                 this.minFrame = 0;
@@ -76,7 +74,7 @@ courses: { compsci: {week: 6} }
         }
 
         // dog object
-        const dog = new Dog();
+        const spiderman = new Spiderman();
 
         // update frameY of dog object, action from idle, bark, walk radio control
         const controls = document.getElementById('controls');
@@ -85,13 +83,13 @@ courses: { compsci: {week: 6} }
                 const selectedAnimation = event.target.id;
                 switch (selectedAnimation) {
                     case 'idle':
-                        dog.frameY = 0;
+                        spiderman.frameY = 0;
                         break;
                     case 'barking':
-                        dog.frameY = 1;
+                        spiderman.frameY = 1;
                         break;
                     case 'walking':
-                        dog.frameY = 2;
+                        spiderman.frameY = 2;
                         break;
                     default:
                         break;
@@ -105,10 +103,10 @@ courses: { compsci: {week: 6} }
             ctx.clearRect(0, 0, canvas.width, canvas.height);
 
             // Draws the current frame of the sprite.
-            dog.draw(ctx);
+            spiderman.draw(ctx);
 
             // Updates the `frameX` property to prepare for the next frame in the sprite sheet.
-            dog.update();
+            spiderman.update();
 
             // Uses `requestAnimationFrame` to synchronize the animation loop with the display's refresh rate,
             // ensuring smooth visuals.
