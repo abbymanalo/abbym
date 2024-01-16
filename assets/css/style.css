@@ -159,6 +159,8 @@ footer p + p { float: right; }
 /* styling for the calculator equals button */
 .calculator-equals { background-color: #e71ba3; }
 
+.calculator-number { background-color: #DD9DBD;}
+
 
 
 
