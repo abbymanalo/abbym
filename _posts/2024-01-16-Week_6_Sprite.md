@@ -13,7 +13,7 @@ courses: { compsci: {week: 6} }
 <body>
     <div>
         <canvas id="spriteContainer"> <!-- Within the base div is a canvas. An HTML canvas is used only for graphics. It allows the user to access some basic functions related to the image created on the canvas (including animation) -->
-            <img id="dogSprite" src="C:\Users\abrie\Downloads\kindpng_2226232.png">  // change sprite here
+            <img id="SpidermanSprite" src="spidermansprite.jpg">  // change sprite here
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
             <input type="radio" name="animation" id="idle" checked>
