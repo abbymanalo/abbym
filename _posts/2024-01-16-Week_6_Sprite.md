@@ -29,8 +29,8 @@ courses: { compsci: {week: 6} }
     window.addEventListener('load', function () {
         const canvas = document.getElementById('spriteContainer');
         const ctx = canvas.getContext('2d');
-        const SPRITE_WIDTH = 46;  // matches sprite pixel width
-        const SPRITE_HEIGHT = 47; // matches sprite pixel height
+        const SPRITE_WIDTH = 100;  // matches sprite pixel width
+        const SPRITE_HEIGHT = 100; // matches sprite pixel height
         const FRAME_LIMIT = 9;  // matches number of frames per sprite row, this code assume each row is same
 
         const SCALE_FACTOR = 2;  // control size of sprite on canvas
@@ -110,7 +110,10 @@ courses: { compsci: {week: 6} }
 
             // Uses `requestAnimationFrame` to synchronize the animation loop with the display's refresh rate,
             // ensuring smooth visuals.
-            requestAnimationFrame(animate);
+            //requestAnimationFrame(animate);
+        setTimeout(function() {
+        requestAnimationFrame(animate);
+        }, 100);
         }
 
         // run 1st animate
