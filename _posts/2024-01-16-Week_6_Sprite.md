@@ -33,7 +33,7 @@ courses: { compsci: {week: 6} }
         const SPRITE_HEIGHT = 33; // matches sprite pixel height
         const FRAME_LIMIT = 4;  // matches number of frames per sprite row, this code assume each row is same
 
-        const SCALE_FACTOR = 6;  // control size of sprite on canvas
+        const SCALE_FACTOR = 10;  // control size of sprite on canvas
         canvas.width = SPRITE_WIDTH * SCALE_FACTOR;
         canvas.height = SPRITE_HEIGHT * SCALE_FACTOR;
 
