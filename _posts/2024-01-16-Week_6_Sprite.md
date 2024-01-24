@@ -20,8 +20,6 @@ courses: { compsci: {week: 6} }
             <label for="run left">run left</label><br>
             <input type="radio" name="animation" id="run right">
             <label for="run right">run right</label><br>
-            <input type="radio" name="animation" id="run and stop" checked>
-            <label for="run and stop">run and stop</label><br>
             <input type="radio" name="animation" id="runaway" checked>
             <label for="runaway">runaway</label><br>
         </div>
@@ -95,11 +93,8 @@ courses: { compsci: {week: 6} }
                     case 'run right':
                         spiderman.frameY = 2;
                         break;
-                    case 'run and stop':
-                        spiderman.frameY = 3;
-                        break;
                     case 'runaway':
-                        spiderman.frameY = 4;
+                        spiderman.frameY = 3;
                         break;
                     default:
                         break;
