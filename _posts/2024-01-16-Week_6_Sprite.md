@@ -91,12 +91,6 @@ courses: { compsci: {week: 6} }
                     case 'run right':
                         spiderman.frameY = 2;
                         break;
-                    case 'run and stop':
-                        spiderman.frameY = 3;
-                        break;
-                    case 'run away':
-                        spiderman.frameY = 4;
-                        break;
                     default:
                         break;
                 }
