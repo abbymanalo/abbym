@@ -14,12 +14,12 @@ courses: { compsci: {week: 6} }
             <img id="spidermanSprite" src="{{site.baseurl}}/images/spriteman-removebg-preview.png">  // change sprite here
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
-            <input type="radio" name="animation" id="idle" checked>
-            <label for="idle">Idle</label><br>
-            <input type="radio" name="animation" id="barking">
-            <label for="barking">Barking</label><br>
-            <input type="radio" name="animation" id="walking">
-            <label for="walking">Walking</label><br>
+            <input type="radio" name="animation" id="run forward" checked>
+            <label for="run forward">run forward</label><br>
+            <input type="radio" name="animation" id="run left">
+            <label for="run left">run left</label><br>
+            <input type="radio" name="animation" id="run right">
+            <label for="run right">run right</label><br>
         </div>
     </div>
 </body>
@@ -90,6 +90,12 @@ courses: { compsci: {week: 6} }
                         break;
                     case 'run right':
                         spiderman.frameY = 2;
+                        break;
+                    case 'run and stop':
+                        spiderman.frameY = 3;
+                        break;
+                    case 'run away':
+                        spiderman.frameY = 4;
                         break;
                     default:
                         break;
