@@ -11,7 +11,7 @@ courses: { compsci: {week: 6} }
 <body>
     <div>
         <canvas id="spriteContainer"> <!-- Within the base div is a canvas. An HTML canvas is used only for graphics. It allows the user to access some basic functions related to the image created on the canvas (including animation) -->
-            <img id="spidermanSprite" src="{{site.baseurl}}/images/corgisprite-removebg-preview.png">  // change sprite here
+            <img id="spidermanSprite" src="{{site.baseurl}}/images/spriteman.png">  // change sprite here
         </canvas>
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
             <input type="radio" name="animation" id="idle" checked>
@@ -31,9 +31,9 @@ courses: { compsci: {week: 6} }
         const ctx = canvas.getContext('2d');
         const SPRITE_WIDTH = 50;  // matches sprite pixel width
         const SPRITE_HEIGHT = 33; // matches sprite pixel height
-        const FRAME_LIMIT = 4;  // matches number of frames per sprite row, this code assume each row is same
+        const FRAME_LIMIT = 6;  // matches number of frames per sprite row, this code assume each row is same
 
-        const SCALE_FACTOR = 10;  // control size of sprite on canvas
+        const SCALE_FACTOR = 5;  // control size of sprite on canvas
         canvas.width = SPRITE_WIDTH * SCALE_FACTOR;
         canvas.height = SPRITE_HEIGHT * SCALE_FACTOR;
 
@@ -113,7 +113,7 @@ courses: { compsci: {week: 6} }
             //requestAnimationFrame(animate);
         setTimeout(function() {
         requestAnimationFrame(animate);
-        }, 80);
+        }, 100);
         }
 
         // run 1st animate
