@@ -118,7 +118,7 @@ courses: { compsci: {week: 6} }
             //requestAnimationFrame(animate);
         setTimeout(function() {
         requestAnimationFrame(animate);
-        }, 50);
+        }, 90);
         }
 
         // run 1st animate
