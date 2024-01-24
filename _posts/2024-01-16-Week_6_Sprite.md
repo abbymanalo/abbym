@@ -31,7 +31,7 @@ courses: { compsci: {week: 6} }
     window.addEventListener('load', function () {
         const canvas = document.getElementById('spriteContainer');
         const ctx = canvas.getContext('2d');
-        const SPRITE_WIDTH = 60;  // matches sprite pixel width
+        const SPRITE_WIDTH = 70;  // matches sprite pixel width
         const SPRITE_HEIGHT = 100; // matches sprite pixel height
         const FRAME_LIMIT = 6;  // matches number of frames per sprite row, this code assume each row is same
 
@@ -118,7 +118,7 @@ courses: { compsci: {week: 6} }
             //requestAnimationFrame(animate);
         setTimeout(function() {
         requestAnimationFrame(animate);
-        }, 90);
+        }, 100);
         }
 
         // run 1st animate
