@@ -16,8 +16,8 @@ courses: { compsci: {week: 6} }
         <div id="controls"> <!--basic radio buttons which can be used to check whether each individual animaiton works -->
             <input type="radio" name="animation" id="run forward" checked>
             <label for="run forward">run forward</label><br>
-            <input type="radio" name="animation" id="run backwards">
-            <label for="run backwards">run backwards</label><br>
+            <input type="radio" name="animation" id="run left">
+            <label for="run left">run left</label><br>
             <input type="radio" name="animation" id="run right">
             <label for="run right">run right</label><br>
             <input type="radio" name="animation" id="runaway" checked>
@@ -87,7 +87,7 @@ courses: { compsci: {week: 6} }
                     case 'run forward':
                         spiderman.frameY = 0;
                         break;
-                    case 'run backwards':
+                    case 'run left':
                         spiderman.frameY = 1;
                         break;
                     case 'run right':
